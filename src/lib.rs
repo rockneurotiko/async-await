@@ -5,10 +5,10 @@ pub use eventual::*;
 #[macro_export]
 macro_rules! async {
     ($e: expr) => {
-        Future::spawn(|| { $e })
+        Future::spawn(move || { $e })
     };
     ($block:block) => {
-        Future::spawn(|| { $block })
+        Future::spawn(move || { $block })
     }
 }
 
