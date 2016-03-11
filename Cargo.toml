@@ -2,7 +2,7 @@
 name = "async-await"
 version = "0.1.2"
 authors = ["Rock Neurotiko <miguelglafuente@gmail.com>"]
-license = "MIT"
+license = "MIT OR Apache-2.0"
 
 description = "Just some macros to emulate the Async and Await :)"
 repository = "https://github.com/rockneurotiko/async-await"
