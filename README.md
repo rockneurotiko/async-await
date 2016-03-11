@@ -3,15 +3,15 @@ Async-Await
 
 [![Crates.io](http://img.shields.io/crates/v/async-await.svg)](https://crates.io/crates/async-await)
 
-Just two macros to emulate a simpre Async and Await using Futures (provided by eventual).
+Just two macros to emulate a simple Async and Await using Futures (provided by [eventual][https://github.com/carllerche/eventual]).
 
 ## Usage
 
-This is availabre in `crates.io`. Add this to your `Cargo.toml`:
+This is available in `crates.io`. Add this to your `Cargo.toml`:
 
 ```
 [dependencies]
-async-await = "0.1.1"
+async-await = "0.1.2"
 ```
 
 ## Example

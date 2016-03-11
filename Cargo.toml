@@ -1,6 +1,6 @@
 [package]
 name = "async-await"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Rock Neurotiko <miguelglafuente@gmail.com>"]
 license = "MIT"
 
@@ -9,4 +9,4 @@ repository = "https://github.com/rockneurotiko/async-await"
 keywords = ["async", "future", "await", "thread"]
 
 [dependencies]
-eventual = "0.1.*"
+eventual = "0.1.5"
