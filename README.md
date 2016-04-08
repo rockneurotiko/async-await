@@ -3,7 +3,7 @@ Async-Await
 
 [![Crates.io](http://img.shields.io/crates/v/async-await.svg)](https://crates.io/crates/async-await)
 
-Just two macros to emulate a simple Async and Await using Futures (provided by [eventual][https://github.com/carllerche/eventual]).
+Just two macros to emulate a simple Async and Await using Futures (provided by [eventual](https://github.com/carllerche/eventual)).
 
 ## Usage
 
