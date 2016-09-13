@@ -1,7 +1,7 @@
 extern crate futures;
 
-use futures::*;
-use std::thread;
+pub use futures::*;
+pub use std::thread;
 
 #[macro_export]
 macro_rules! async {
