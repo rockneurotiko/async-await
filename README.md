@@ -3,6 +3,11 @@ Async-Await
 
 [![Crates.io](http://img.shields.io/crates/v/async-await.svg)](https://crates.io/crates/async-await)
 
+
+[![Warning](https://png.icons8.com/color/100/high-priority.png) Deprecated in favour to the standard RFC that just has been approved:](https://github.com/rust-lang/rfcs/blob/master/text/2394-async_await.md)
+
+[https://github.com/rust-lang/rfcs/blob/master/text/2394-async_await.md](https://github.com/rust-lang/rfcs/blob/master/text/2394-async_await.md)
+
 Just two macros to emulate a simple Async and Await using Futures (provided by [futures-rs](https://github.com/alexcrichton/futures-rs) thanks to @cmgriffing for port it).
 
 ## Usage
